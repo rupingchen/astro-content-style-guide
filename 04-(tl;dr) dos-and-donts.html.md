@@ -18,6 +18,9 @@ Here are some Do's and Don'ts in constructing content for astro.com
 ## Don't
 
 -Inundate your pieces with too much jargon (unless you're writing for amateurs/experts)
+
 -Make generalizations
+
 -Excessively nest headers under other headers
+
 -Patronize
