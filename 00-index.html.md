@@ -15,7 +15,8 @@ This guide goes beyond standard astrological practices because Ru-Ping believes 
 
 Ru-Ping has chosen to provide a simple and structured guide, as she can achieve only so much as one person. If you want to add more content to this guide, contact Ru-Ping directly. Or submit an issue on GitHub.
 
-Thanks to MailChimp, this guide is completely searachable. Thanks MailChimp!
+This guide is completely searachable. 
 
-[astro.com Content Style Guide on Github](https://github.com/https://github.com/rupingchen/astro-styleguide)
+Ru-Ping adapted this guide from the Mailchimp Content Style Guide. Thanks Mailchimp!
+
 [Mailchimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)
