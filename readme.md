@@ -1,7 +1,4 @@
----
-title: Welcome to the astro.com Content Style Guide (Preamble)
-layout: article
----
+## Welcome to the astro.com Content Style Guide (Preamble)
 
 This style guide was created by Ru-Ping Chen (rupingchen.github.io) for astro.com, but she hopes it'll also help other astrology-based organizations and companies too.
 
