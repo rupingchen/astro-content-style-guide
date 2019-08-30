@@ -1,62 +1,22 @@
-# Middleman with Markdown Submodule Example
+---
+title: Welcome to the astro.com Content Style Guide (Preamble)
+layout: article
+---
 
-This is an example project using [Middleman](https://middlemanapp.com) and pulling in our [Style Guide](https://github.com/mailchimp/content-style-guide) as a submodule.
+This style guide was created by Ru-Ping Chen (rupingchen.github.io) for astro.com, but she hopes it'll also help other astrology-based organizations and companies too.
 
-## Installation
-Requires Ruby 2.2.5 and Bundler
+## If you work at astro.com
 
-Clone the repo:
-``` bash
-git clone git@github.com:mailchimp/middleman-with-md-submodule-example.git
-cd middleman-with-md-submodule-example
-```
+This is not your formal company style guide. Ru-Ping created it to identify user experience problems with astro.com. 
 
-Install dependencies:
-``` bash
-bundle install
-```
+Don't let the spelling of Ru-Ping's name fool you! She's a native speaker of English (and Mandarin Chinese and Mandarin dialects). She promises that this guide will help you write clear, consistent, and mindful content. Feel free to use it as a reference, but don't forget to credit Ru-Ping!
 
-Initialize the submodule:
-``` bash
-git submodule init
-```
+This guide goes beyond standard astrological practices because Ru-Ping believes astrological content should find a new manner of expression. If you have problems with this, contact Ru-Ping directly. She's willing to have civilized discussions about these issues! rupingchen.github.io has her contact information.
 
-Update the submodule:
-``` bash
-git submodule update
-```
+Ru-Ping has chosen to provide a simple and structured guide, as she can achieve only so much as one person. If you want to add more content to this guide, contact Ru-Ping directly. Or submit an issue on GitHub.
 
-Run it:
-``` bash
-bundle exec middleman server
-```
+This guide is completely searachable. 
 
-View it at `http://localhost:4567/`
+Ru-Ping adapted this guide from the Mailchimp Content Style Guide. Thanks Mailchimp!
 
-## Add Your Own Style Guide
-
-Fork your own version of our [Style Guide](https://github.com/mailchimp/content-style-guide). You'll need to change out the submodule with your forked version.
-
-First, remove the old Style Guide:
-
-``` bash
-git submodule deinit content-style-guide
-git rm content-style-guide
-```
-
-Then go to your fork of the Style Guide on GitHub, click on the `Clone or download` button, copy the `Clone with SSH` url, and paste it in this line:
-
-``` bash
-git submodule add {paste your submodule GitHub repo url}
-```
-
-Then:
-``` bash
-git submodule init
-```
-
-As you make changes to your copy of the Style Guide submodule, you'll need to resync it with:
-
-``` bash
-git submodule update
-```
+[Mailchimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)
