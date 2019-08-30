@@ -3,48 +3,38 @@ title: Voice and Tone
 layout: article
 ---
 
-One way we write empowering content is by being aware of our voice and our tone. This section explains the difference between voice and tone, and lays out the elements of each as they apply to Mailchimp.
+One way we write mindful and inclusive content is by being aware of our voice and our tone.
 
-What’s the difference between voice and tone? Think of it this way: You have the same voice all the time, but your tone changes. You might use one tone when you're out to dinner with your closest friends, and a different tone when you're in a meeting with your boss.
+What’s the difference between voice and tone (as it relates to astrology)? Think of it this way: The sound of your voice is likely dictated by your Mercury placements, but the tone changes depending on your mood. For example, when you get angry, the tone of your angry voice is influenced by your Mars placements.
 
-Your tone also changes depending on the emotional state of the person you’re addressing. You wouldn’t want to use the same tone of voice with someone who’s scared or upset as you would with someone who’s laughing.
-
-The same is true for Mailchimp. Our voice doesn’t change much from day to day, but our tone changes all the time.
+The same is true for astro.com. The sounds of our voices might generally be the same, but tone-changes are situation-dependent.
 
 ## Voice
 
-At Mailchimp, we’ve walked in our customers' shoes, and we know marketing technology is a minefield of confusing terminology. That’s why we speak like the experienced and compassionate business partner we wish we’d had way back when. 
+Astro.com publishes a variety of content, and navigation of our site can be difficult at times. That's why we speak like that one quirky professor who seems to know everything about anything, just so we don't bore our users. We're brimming with information, like a walking encyclopedia, and an edge of spirituality, like Buddhist teachings.
 
-We treat every hopeful brand seriously. We want to educate people without patronizing or confusing them. 
+Most importantly, we treat every enthusiastic learner seriously. We want to teach people how to use astrology in an emotionally healthy manner, without confusing or overwhelming them.  
 
-Using offbeat humor and a conversational voice, we play with language to bring joy to their work. We prefer the subtle over the noisy, the wry over the farcical. We don't take ourselves too seriously.
+By mixing formal and spiritual language, we experiment with language to create something new, to give astrologers a novel user experience. Add a dash of humor and you're set!  
 
-Whether people know what they need from us or don’t know the first thing about marketing, every word we say informs and encourages. We impart our expertise with clarity, empathy, and wit. 
+Every word we say guides, informs, and avoids absolutes.
 
 All of this means that when we write copy:
 
-1. **We are plainspoken.** We understand the world our customers are living in: one muddled by hyperbolic language, upsells, and over-promises. We strip all that away and value clarity above all. Because businesses come to Mailchimp to get to work, we avoid distractions like fluffy metaphors and cheap plays to emotion. 
+1. **We are mindful.** We understand the struggles our users face: one inundated with confusing astrological jargon, black-and-white interpretations, and little guidance. We adjust the way we present material and value unbiased information above all. Because astro.com serves astrologers of all kinds, we avoid catering only to one group. We include all. 
 
-2. **We are genuine.** We get small businesses because we were one not too long ago. That means we relate to customers’ challenges and passions and speak to them in a familiar, warm, and accessible way. 
+2. **We are teachers.** We were once students in astrology. That means we understand the struggles faced when astrology learners take up new challenges and provide guidance and encouragement.
 
-3. **We are translators.** Only experts can make what’s difficult look easy, and it’s our job to demystify B2B-speak and actually educate.
-
-4. **Our humor is dry.** Our sense of humor is straight-faced, subtle, and a touch eccentric. We’re weird but not inappropriate, smart but not snobbish. We prefer winking to shouting. We’re never condescending or exclusive—we always bring our customers in on the joke.
+3. **We are translators.** Astrology can be nebulous and hard to understand at times, meaning it's our job to uncomplicate how astrological information is typically presented. 
 
 ## Tone
 
-Mailchimp’s tone is usually informal, but it’s always more important to be clear than entertaining. When you’re writing, consider the reader’s state of mind. Are they relieved to be finished with a campaign? Are they confused and seeking our help on Twitter? Once you have an idea of their emotional state, you can adjust your tone accordingly.
+Astro.com's tone is usually formal, but we're trying to change that. Don't be afraid to have a litte fun and entertain! However, remember to consider your audience members and their states of mind. Are they beginners or experts? Do they know now to read natal charts? Once you can adequately answer these questions (among others), change your tone accordingly. 
 
-Mailchimp has a sense of humor, so feel free to be funny when it’s appropriate and when it comes naturally to you. But don’t go out of your way to make a joke—forced humor can be worse than none at all. If you’re unsure, keep a straight face.
 
 ## Style tips
 
-Here are a few key elements of writing Mailchimp’s voice. For more, see the [Grammar and mechanics section](/04-grammar-and-mechanics.html.md).
-
-* [**Active voice**](/04-grammar-and-mechanics.html.md/#header-3-active-voice) Use active voice. Avoid passive voice.
-* [**Avoid slang and jargon**](/04-grammar-and-mechanics.html.md/#header-3-slang-and-jargon) Write in plain English.
-* [**Write positively**](/04-grammar-and-mechanics.html.md/#header-3-write-positively) Use positive language rather than negative language.
-
-## A note about Freddie
-
-Freddie has been around in various forms since the company's beginning, and he captures the spirit of our brand’s personality. He smiles, winks, and sometimes high-fives, but he does not talk. Don't write in his voice. For more on how to use Freddie, see our [brand assets](https://mailchimp.com/about/brand-assets/).
+* [**Active voice**] Use active voice. Avoid passive voice.
+* [**Avoid slang and jargon**] Write in plain English.
+* [**Write objectively for informational pieces**] Use formal and unbiased language.
+* [**Write humorously/entertainingly every now and then**] It's okay to have fun, especially when providing examples for an informational piece. 

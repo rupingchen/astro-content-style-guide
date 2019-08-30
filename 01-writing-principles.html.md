@@ -3,24 +3,26 @@ title: Writing Goals and Principles
 layout: article
 ---
 
-With every piece of content we publish, we aim to:
+With every piece of astrological content astro.com publishes, astro.com should aim to:
 
-* **Empower.** Help people understand Mailchimp by using language that informs them and encourages them to make the most of our products.
+* **Guide.** Help people understand astrology by using language that teaches users how to interpret astrology in an emotionally healthy manner.
 
-* **Respect.** Treat readers with the respect they deserve. Put yourself in their shoes, and don’t patronize them. Remember that they have other things to do. Be considerate and inclusive. Don’t market at people; communicate with them.
+* **Inform.** Don't lecture your readers, especially beginners. Remember that these people have a vested interest in learning more about astrology. Don't destroy that interest. Be considerate and instructive, but don't patronize.
 
-* **Educate.** Tell readers what they need to know, not just what we want to say. Give them the exact information they need, along with opportunities to learn more. Remember that you’re the expert, and readers don’t have access to everything you know.
+* **Give astrology a different voice.** Astrologers present information in one of two extremes: (1) quirky, relatable content and (2) scientific-like language. We want to find the happy medium (Tumblr has many great examples of this happy medium).
 
-* **Guide.** Think of yourself as a tour guide for our readers. Whether you’re leading them through our educational materials or a task in our app, communicate in a friendly and helpful way.
+* **Avoid absolutes.** Astrology has a negative reputation for dealing in absolutes and let's face it. We know that just isn't the case. Make sure to point out that astrology deals in the gray areas of the human experience, not in the black-and-white.
 
-* **Speak truth.** Understand Mailchimp's place in our users’ lives. Avoid dramatic storytelling and grandiose claims. Focus on our real strengths.
+* **Include information that applies to people of all walks of life.** Many astrologers tend to create content only for Western audiences and for all intents and purposes, that shouldn't be the case. It's the 21st century and we need to get with the times.
 
-In order to achieve those goals, we make sure our content is:
+* **Evolve.** All existing civilizations have practices similar to Western astrological rituals. And as the world becomes more connected than ever, we need to acknowledge the cross-cultural, inborn needs of humans to create non-Western, astrological practices of their own. But remember, though we should aim to learn from each other, don't forget to be mindful. Give credit where credit is due and if you're unsure about what to do, ask someone. Most importantly, follow your gut. If it doesn't feel right, don't do it.
 
-* **Clear.** Understand the topic you’re writing about. Use simple words and sentences.
+In order to achieve those goals, astro.com should make sure that content is:
 
-* **Useful.** Before you start writing, ask yourself: What purpose does this serve? Who is going to read it? What do they need to know?
+* **Clear.** Use simple words and sentences. Keep in mind that beginners will also read your content. 
 
-* **Friendly.** Write like a human. Don’t be afraid to break a few rules if it makes your writing more relatable. All of our content, from splashy homepage copy to system alerts, should be warm and human.
+* **Unbiased.** Make sure to present information in an unbiased manner. Astrology may not be a science, but we should write content that provides users with a good foundation of knowledge, so they can come to their own conclusions as they learn more.
 
-* **Appropriate.** Write in a way that suits the situation. Just like you do in face-to-face conversations, adapt your tone depending on who you’re writing to and what you’re writing about.
+* **Quirky.** Astrology is about the human experience, so don't be afraid to sound relatable. All of astro.com's content should sound human.
+
+* **Mindful and Inclusive** Do not use astrology to make generalizations about other groups of people. It's simple. And in the 21st century, this should be a given. 

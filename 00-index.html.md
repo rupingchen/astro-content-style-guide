@@ -1,22 +1,21 @@
 ---
-title: Welcome to the Mailchimp Content Style Guide
+title: Welcome to the astro.com Content Style Guide (Preamble)
 layout: article
 ---
 
-This style guide was created for Mailchimp employees, but we hope it’s helpful for other content and communications teams too.
+This style guide was created by Ru-Ping Chen (rupingchen.github.io) for astro.com, but she hopes it'll also help other astrology-based organizations and companies too.
 
-## If you work at Mailchimp
+## If you work at astro.com
 
-This is our company style guide. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for Mailchimp.
+This is not your formal company style guide. Ru-Ping created it to identify user experience problems with astro.com. 
 
-This guide goes beyond basic grammar and style points. It’s not traditional in format or content. We break a number of grammar rules for clarity, practicality, or preference.
+Don't let the spelling of Ru-Ping's name fool you! She's a native speaker of English (and Mandarin Chinese and Mandarin dialects). She promises that this guide will help you write clear, consistent, and mindful content. Feel free to use it as a reference, but don't forget to credit Ru-Ping!
 
-We’ve divided the guide by topic based on the types of content we publish, so you can reference it as needed or browse in order. The entire guide is searchable, so you can go straight to the item you’re looking for.
+This guide goes beyond standard astrological practices because Ru-Ping believes astrological content should find a new manner of expression. If you have problems with this, contact Ru-Ping directly. She's willing to have civilized discussions about these issues! rupingchen.github.io has her contact information.
 
-## If you work at another organization
+Ru-Ping has chosen to provide a simple and structured guide, as she can achieve only so much as one person. If you want to add more content to this guide, contact Ru-Ping directly. Or submit an issue on GitHub.
 
-We invite you to use and adapt this style guide as you see fit. It’s completely public and available under a Creative Commons Attribution-NonCommercial 4.0 International license. All we ask is that you credit Mailchimp.
+Thanks to MailChimp, this guide is completely searachable. Thanks MailChimp!
 
-We welcome any feedback for improving the guide.
-
+[astro.com Content Style Guide on Github](https://github.com/https://github.com/rupingchen/astro-styleguide)
 [Mailchimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)
