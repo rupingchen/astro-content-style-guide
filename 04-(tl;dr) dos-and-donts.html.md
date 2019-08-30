@@ -8,8 +8,11 @@ Here are some Do's and Don'ts in constructing content for astro.com
 ## Do
 
 -Consider who your audience is
+
 -Provide clear, unbiased information
+
 -Be inclusive
+
 -Find a happy medium between a formal voice and a spiritual voice
 
 ## Don't
