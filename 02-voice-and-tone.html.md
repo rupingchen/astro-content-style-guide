@@ -3,7 +3,7 @@
 
 One way we write mindful and inclusive content is by being aware of our voice and our tone.
 
-What’s the difference between voice and tone (as it relates to astrology)? Think of it this way: The sound of your voice is likely dictated by your Mercury placements, but the tone changes depending on your mood. For example, when you get angry, the tone of your angry voice is influenced by your Mars placements.
+What’s the difference between voice and tone (as it relates to astrology)? Think of it this way: the sound of your voice is likely dictated by your Mercury placements, but the tone changes depending on your mood. For example, when you get angry, the tone of your angry voice is influenced by your Mars placements.
 
 The same is true for astro.com. The sounds of our voices might generally be the same, but tone-changes are situation-dependent.
 
