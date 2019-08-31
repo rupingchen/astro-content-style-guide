@@ -1,6 +1,4 @@
----
 # Writing Goals and Principles
----
 
 With every piece of astrological content astro.com publishes, astro.com should aim to:
 
