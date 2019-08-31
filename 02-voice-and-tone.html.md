@@ -1,6 +1,5 @@
----
+
 # Voice and Tone
----
 
 One way we write mindful and inclusive content is by being aware of our voice and our tone.
 
