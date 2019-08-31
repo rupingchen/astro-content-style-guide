@@ -35,3 +35,7 @@ Astro.com's tone is usually formal, but we're trying to change that. Don't be af
 * **Active voice** Use active voice. Avoid passive voice.
 * **Write objectively for informational pieces** Use formal and unbiased language.
 * **Write humorously/entertainingly every now and then** It's okay to have fun, especially when providing examples for an informational piece. 
+
+[⇠Writing Principles](01-writing-principles.html.md)
+
+[Writing for Accesibility⇢](03-writing-for-accessibility.html.md)
