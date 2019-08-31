@@ -21,7 +21,7 @@ Ru-Ping adapted this guide from the Mailchimp Content Style Guide. Thanks Mailch
 
 [Writing for Accesibility](03-writing-for-accessibility.html.md)
 
-[(tl;dr) Do's and Don'ts](04-(tl;dr)-dos-and-donts.html.md)
+[(tl;dr) Do's and Don'ts](04-tl;dr-dos-and-donts.html.md)
 
 
 [Mailchimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)

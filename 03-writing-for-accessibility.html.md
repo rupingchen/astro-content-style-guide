@@ -21,7 +21,7 @@ Put the most important information first. Place similar topics in the same parag
 
 ### Change the type of language you use depending on who your audience is
 
-If you're writing for beginners, don't inundate your posts with advance astrological jardon like "ephemeris." If you need to include jargon, make sure to write clear and concise definitions. 
+If you're writing for beginners, don't inundate your posts with advanced astrological jardon like "ephemeris." If you need to include jargon, make sure to write clear and concise definitions. 
 
 If you're writing for amateurs/experts, we encourage the inclusion of jargon. When your audience bears about the same level of understanding as you do, jargon encourages in-depth discussions and contributes to development of astrological craft.
 
