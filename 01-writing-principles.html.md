@@ -23,3 +23,5 @@ So in order to achieve these goals, astro.com should make sure that content is:
 * **Quirky.** Astrology is about the human experience, so don't be afraid to sound relatable.
 
 * **Mindful and Inclusive.** Do not use astrology to make generalizations about other groups of people. It's simple. And in the 21st century, this should be a given. 
+
+[Voice and Tone⇢](02-voice-and-tone.html.md)
