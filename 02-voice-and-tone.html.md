@@ -13,13 +13,11 @@ Astro.com publishes a variety of content: from natal chart reports to informatio
 
 Most importantly, we treat every enthusiastic learner seriously. We want to teach people how to use astrology in an emotionally healthy manner, without confusing or overwhelming them.  
 
-By mixing formal and spiritual language, we experiment with language to create something new, to give astrologers a novel user experience. Add a dash of humor and you're set!  
-
-But most importantly, every word we say guides, informs, and avoids absolutes.
+And by mixing formal and spiritual language, we experiment with language to create something new, to give astrologers a novel user experience. Add a dash of humor and you're set!  
 
 All of this means that when we write copy:
 
-1. **We are mindful.** We understand the struggles our users face: learning experiences inundated with confusing astrological jargon, rigid interpretations, and little guidance. We adjust the way we present material by being culturally and racially mindful, and value unbiased information above all. Because astro.com serves astrologers of all kinds, we avoid catering only to one group. We include all. 
+1. **We are mindful.** We understand the struggles our users face: confusing astrological jargon, rigid interpretations, and little guidance. We adjust the way we present material by being culturally and racially mindful, and value unbiased information above all. Because astro.com serves astrologers of all kinds, we avoid catering only to one group. We include all. 
 
 2. **We are teachers.** We take our responsibilities seriously by providing guidance and encouragement to students of astrology. We do not patronize. 
 
