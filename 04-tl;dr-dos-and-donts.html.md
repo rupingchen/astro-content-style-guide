@@ -12,6 +12,8 @@ Here are some Do's and Don'ts in constructing content for astro.com
 
 -Find a happy medium between a formal voice and a spiritual voice
 
+-Provide tips and guidance
+
 ## Don't
 
 -Inundate your pieces with too much jargon (unless you're writing for amateurs/experts)
@@ -21,3 +23,7 @@ Here are some Do's and Don'ts in constructing content for astro.com
 -Excessively nest headers under other headers
 
 -Patronize
+
+-Lecture users
+
+-Give life advice

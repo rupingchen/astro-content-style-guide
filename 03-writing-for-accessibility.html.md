@@ -1,19 +1,21 @@
 # Writing for Accessibility
 
-Astro.com, as it currently exists, provides content that lacks accessibility. Standard organizational hierarchy is largely absent and prevents us from achieving our goals to inform and guide users who want to learn more about astrology. Remember, accessibility includes users of all mental and physical capacities.
+Astro.com, as it currently exists, provides content that lacks accessibility. Uniform organizational hierarchy is largely absent and prevents us from achieving our goals to inform and guide users who want to learn more about astrology. Remember, accessibility includes users of all mental and physical capacities.
 
 ## Guidelines
 
 ### Avoid generalizations 
 
-Avoid language that makes it easy to jump to conclusions and make generalizations. Too often, beginners get caught in black-and-white interpretations of astrological thought and we want to avoid that. 
+Avoid language that makes it easy to jump to conclusions and stereotype. Too often, beginners get caught in black-and-white interpretations of astrological thought and we want to avoid that. 
 
-- Yes: “A stellium in the 12th house indicates that dealing with and identifying subconscious motivations behind your decisions will likely play a significant role in your life.”
+- Yes: “A stellium in the 12th house indicates that dealing with the subconscious motivations behind your decisions will likely play a significant role in your life.”
 - No: “A stellium in the 12th house means you'll always be miserable.”
 
 ### Use headers
 
 Headers should always be nested and consecutive. Avoid excessive nesting.
+
+Use headers to indicate who you're writing for (e.g. beginners, amateurs, experts)
 
 ### Employ a hierarchy
 
