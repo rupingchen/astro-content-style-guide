@@ -19,7 +19,7 @@ Ru-Ping adapted this guide from the Mailchimp Content Style Guide. Thanks Mailch
 
 [2. Voice and Tone](02-voice-and-tone.html.md)
 
-[3. Writing for Accesibility](03-writing-for-accessibility.html.md)
+[3. Writing for Accessibility](03-writing-for-accessibility.html.md)
 
 [4. (tl;dr) Do's and Don'ts](04-tl;dr-dos-and-donts.html.md)
 
