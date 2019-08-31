@@ -15,13 +15,13 @@ Ru-Ping has chosen to provide a simple and structured guide, as she can achieve 
 Ru-Ping adapted this guide from the Mailchimp Content Style Guide. Thanks Mailchimp!
 
 
-[Writing Principles](01-writing-principles.html.md)
+[1. Writing Principles](01-writing-principles.html.md)
 
-[Voice and Tone](02-voice-and-tone.html.md)
+[2. Voice and Tone](02-voice-and-tone.html.md)
 
-[Writing for Accesibility](03-writing-for-accessibility.html.md)
+[3. Writing for Accesibility](03-writing-for-accessibility.html.md)
 
-[(tl;dr) Do's and Don'ts](04-tl;dr-dos-and-donts.html.md)
+[4. (tl;dr) Do's and Don'ts](04-tl;dr-dos-and-donts.html.md)
 
 
 [Mailchimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)
