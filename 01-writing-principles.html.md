@@ -1,3 +1,5 @@
+theme: jekyll-theme-dinky
+
 ---
 title: Writing Goals and Principles
 layout: article
