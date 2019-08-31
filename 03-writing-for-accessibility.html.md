@@ -1,6 +1,5 @@
 ---
-title: Writing for Accessibility
-layout: article
+# Writing for Accessibility
 ---
 
 Astro.com, as it currently exists, provides content that lacks accessibility. Standard organizational hierarchy is largely absent and prevents us from achieving our goals to inform and guide users who want to learn more about astrology. Remember, accessibility includes users of all mental and physical capacities.

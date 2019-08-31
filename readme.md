@@ -4,7 +4,7 @@ This style guide was created by Ru-Ping Chen (rupingchen.github.io) for astro.co
 
 ## If you work at astro.com
 
-This is not your formal company style guide. Ru-Ping created it to identify user experience problems with astro.com. 
+This is not your company style guide. Ru-Ping created it to identify user experience problems with astro.com. 
 
 Don't let the spelling of Ru-Ping's name fool you! She's a native speaker of English (and Mandarin Chinese and Mandarin dialects). She promises that this guide will help you write clear, consistent, and mindful content. Feel free to use it as a reference, but don't forget to credit Ru-Ping!
 
@@ -14,6 +14,11 @@ Ru-Ping has chosen to provide a simple and structured guide, as she can achieve 
 
 Ru-Ping adapted this guide from the Mailchimp Content Style Guide. Thanks Mailchimp!
 
-[Mailchimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)
 
 [Writing Principles](01-writing-principles.html.md)
+[Voice and Tone](02-voice-and-tone.html.md)
+[Writing for Accesibility](03-writing-for-accessibility.html.md)
+[(tl;dr) Do's and Don'ts](01-writing-principles.html.md)
+
+
+[Mailchimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)

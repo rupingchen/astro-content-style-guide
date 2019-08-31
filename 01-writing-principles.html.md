@@ -1,8 +1,5 @@
-theme: jekyll-theme-dinky
-
 ---
-title: Writing Goals and Principles
-layout: article
+# Writing Goals and Principles
 ---
 
 With every piece of astrological content astro.com publishes, astro.com should aim to:
@@ -27,4 +24,4 @@ In order to achieve those goals, astro.com should make sure that content is:
 
 * **Quirky.** Astrology is about the human experience, so don't be afraid to sound relatable. All of astro.com's content should sound human.
 
-* **Mindful and Inclusive** Do not use astrology to make generalizations about other groups of people. It's simple. And in the 21st century, this should be a given. 
+* **Mindful and Inclusive.** Do not use astrology to make generalizations about other groups of people. It's simple. And in the 21st century, this should be a given. 

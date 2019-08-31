@@ -1,6 +1,5 @@
 ---
-title: Voice and Tone
-layout: article
+# Voice and Tone
 ---
 
 One way we write mindful and inclusive content is by being aware of our voice and our tone.
@@ -11,7 +10,7 @@ The same is true for astro.com. The sounds of our voices might generally be the 
 
 ## Voice
 
-Astro.com publishes a variety of content, and navigation of our site can be difficult at times. That's why we speak like that one quirky professor who seems to know everything about anything, just so we don't bore our users. We're brimming with information, like a walking encyclopedia, and an edge of spirituality, like Buddhist teachings.
+Astro.com publishes a variety of content: from natal chart reports to informational articles, navigation of our site can be difficult at times. That's why we speak like a one quirky professor who seems to know everything about anything, just so we don't bore our users. We're brimming with information, like a walking encyclopedia, and an edge of spirituality, like Buddhist teachings.
 
 Most importantly, we treat every enthusiastic learner seriously. We want to teach people how to use astrology in an emotionally healthy manner, without confusing or overwhelming them.  
 

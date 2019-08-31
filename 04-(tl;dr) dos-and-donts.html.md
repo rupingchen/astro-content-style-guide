@@ -1,6 +1,5 @@
 ---
-title: (tl;dr) Do's and Don'ts
-layout: article
+# (tl;dr) Do's and Don'ts
 ---
 
 Here are some Do's and Don'ts in constructing content for astro.com
