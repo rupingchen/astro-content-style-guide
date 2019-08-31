@@ -16,7 +16,7 @@ With every piece of astrological content astro.com publishes, astro.com should a
 
 * **Evolve.** All existing civilizations have practices similar to Western astrological rituals. And as the world becomes more connected than ever, we need to acknowledge the cross-cultural, inborn needs of humans to create non-Western, astrological practices of their own. But remember, though we should aim to learn from each other, don't forget to be mindful. Give credit where credit is due and if you're unsure about what to do, ask someone. Most importantly, follow your gut. If it doesn't feel right, don't do it.
 
-In order to achieve those goals, astro.com should make sure that content is:
+So in order to achieve these goals, astro.com should make sure that content is:
 
 * **Clear.** Use simple words and sentences. Keep in mind that beginners will also read your content. 
 
