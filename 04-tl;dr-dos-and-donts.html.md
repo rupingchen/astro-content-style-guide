@@ -27,3 +27,5 @@ Here are some Do's and Don'ts in constructing content for astro.com
 -Lecture users
 
 -Give life advice
+
+[⇠Voice and Tone](02-voice-and-tone.html.md)

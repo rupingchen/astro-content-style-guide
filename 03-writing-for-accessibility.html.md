@@ -44,3 +44,8 @@ Each browser handles alt tags differently. Supplement images with standard capti
 - [Designing for Screen Reader Compatibility](http://webaim.org/techniques/screenreader/)
 - [Accessible color combinations](http://colorsafe.co/)
 - [WAVE Web Accessibility Evaluation Tool](http://wave.webaim.org/)
+
+[⇠Voice and Tone](02-voice-and-tone.html.md)
+
+[(tl;dr) Do's and Don'ts⇢](04-tl;dr-dos-and-donts.html.md)
+
