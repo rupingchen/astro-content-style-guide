@@ -4,11 +4,9 @@ This style guide was created by Ru-Ping Chen (rupingchen.github.io) for astro.co
 
 ## If you work at astro.com
 
-This is not your company style guide. Ru-Ping created it to identify user experience problems with astro.com. 
+This is not your company style guide. Ru-Ping created it to identify user experience problems with astro.com. Feel free to use this guide as a reference, but don't forget to credit Ru-Ping!
 
-Don't let the spelling of Ru-Ping's name fool you! She's a native speaker of English and is bilingually proficient in Mandarin. Feel free to use it as a reference, but don't forget to credit Ru-Ping!
-
-Ru-Ping has chosen to provide a simple and structured guide, as she can achieve only so much as one person. If you want to add more content to this guide, contact Ru-Ping directly. Or submit an issue on GitHub. She'll be adding to this project as she sees fit! 
+Ru-Ping has chosen to provide a simple and structured guide, as she can achieve only so much as one person. If you want to add more content to this guide, contact Ru-Ping directly. Or submit an issue on GitHub. She'll be adding to this project as she sees fit. 
 
 Ru-Ping adapted this guide from the Mailchimp Content Style Guide. Thanks Mailchimp!
 
